@@ -1,2 +1,2 @@
 # test
-Rrepozytorium testowe
+Repozytorium testowe
